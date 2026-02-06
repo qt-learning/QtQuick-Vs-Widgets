@@ -1,0 +1,14 @@
+-rootPath
+C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section3a
+-cmake-output
+-output-file
+C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section3a/build/Desktop_Qt_6_8_5_MinGW_64_bit-Debug/.qt/qml_imports/appQuickVsWidgets_Section3a_build.cmake
+-importPath
+C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section3a/build/Desktop_Qt_6_8_5_MinGW_64_bit-Debug/QuickVsWidgets_Section3a
+-importPath
+C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section3a/build/Desktop_Qt_6_8_5_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.8.5/mingw_64/qml
+-qrcFiles
+C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section3a/build/Desktop_Qt_6_8_5_MinGW_64_bit-Debug/.qt/rcc/qmake_QuickVsWidgets_Section3a.qrc
+C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section3a/build/Desktop_Qt_6_8_5_MinGW_64_bit-Debug/.qt/rcc/appQuickVsWidgets_Section3a_raw_qml_0.qrc

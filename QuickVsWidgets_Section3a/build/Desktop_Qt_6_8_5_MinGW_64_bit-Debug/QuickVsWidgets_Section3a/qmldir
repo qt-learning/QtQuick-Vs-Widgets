@@ -1,0 +1,6 @@
+module QuickVsWidgets_Section3a
+typeinfo appQuickVsWidgets_Section3a.qmltypes
+prefer :/qt/qml/QuickVsWidgets_Section3a/
+Main 1.0 Main.qml
+depends QtQuick
+

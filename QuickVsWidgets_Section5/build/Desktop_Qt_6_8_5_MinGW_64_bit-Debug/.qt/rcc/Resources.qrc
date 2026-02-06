@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="LineSeries2D.qml">C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section5/LineSeries2D.qml</file>
+    <file alias="PieSeries2D.qml">C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section5/PieSeries2D.qml</file>
+  </qresource>
+</RCC>
+

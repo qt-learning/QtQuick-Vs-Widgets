@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-33d7ec042ab3ec7e609e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QuickVsWidgets_Section5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QuickVsWidgets_Section5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuickVsWidgets_Section5-Debug-f810ffe5e19474c273f5.json",
+					"name" : "QuickVsWidgets_Section5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QuickVsWidgets_Section5_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuickVsWidgets_Section5_autogen-Debug-4e9404d8f21ce3b3f181.json",
+					"name" : "QuickVsWidgets_Section5_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QuickVsWidgets_Section5_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuickVsWidgets_Section5_autogen_timestamp_deps-Debug-0ddc35d7d94d6ed3d357.json",
+					"name" : "QuickVsWidgets_Section5_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QuickVsWidgets_Section5_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuickVsWidgets_Section5_qmlimportscan-Debug-57cc037404c64207629d.json",
+					"name" : "QuickVsWidgets_Section5_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section5/build/Desktop_Qt_6_8_5_MinGW_64_bit-Debug",
+		"source" : "C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
