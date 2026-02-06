@@ -1,9 +1,0 @@
-# ninja log v5
-9	4202	7921128920152574	QuickVsWidgets_Section2b_autogen/timestamp	5b70d13ffc0beae5
-9	4202	7921128920152574	QuickVsWidgets_Section2b_autogen/mocs_compilation.cpp	5b70d13ffc0beae5
-9	4202	7921128920152574	C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section2b/build/Desktop_Qt_6_8_5_MinGW_64_bit-Debug/QuickVsWidgets_Section2b_autogen/timestamp	5b70d13ffc0beae5
-9	4202	7921128920152574	C:/BensWork/QtQuick-Vs-Widgets/QuickVsWidgets_Section2b/build/Desktop_Qt_6_8_5_MinGW_64_bit-Debug/QuickVsWidgets_Section2b_autogen/mocs_compilation.cpp	5b70d13ffc0beae5
-4208	5719	7921128936655377	CMakeFiles/QuickVsWidgets_Section2b.dir/QuickVsWidgets_Section2b_autogen/mocs_compilation.cpp.obj	dfa3eecc5d7871ab
-4225	5758	7921128937113694	CMakeFiles/QuickVsWidgets_Section2b.dir/main.cpp.obj	eebae0c985880bde
-4238	6026	7921128939830264	CMakeFiles/QuickVsWidgets_Section2b.dir/mainwindow.cpp.obj	1d3e90c42272fbdf
-6027	6223	7921128941743970	QuickVsWidgets_Section2b.exe	4a0f87bf72f21be7
